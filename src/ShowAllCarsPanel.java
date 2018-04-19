@@ -87,8 +87,8 @@ public class ShowAllCarsPanel extends JPanel implements ActionListener, ChangeLi
 	{
 		if (ev.getSource() == carSystem)
 		{
-			// remember the cars have been updated
-			carsUpdated = true;
+		// remember the cars have been updated
+		carsUpdated = true;
 		}
 	}
 
